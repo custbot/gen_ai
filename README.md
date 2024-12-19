@@ -17,7 +17,7 @@ DCS Agent Support is an intelligent assistant application that leverages Azure C
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/custbot/gen_ai.git
    cd <repository-folder>
    ```
 
