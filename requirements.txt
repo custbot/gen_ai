@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+langchain_community
+sympy
+langgraph
+azure-search-documents
+azure-identity
+chainlit
+
+
+
